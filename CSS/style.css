@@ -1,0 +1,17 @@
+*{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#box {
+  padding: 25px;
+}
+
+#inp{
+  text-align: left;
+}
+
+.title{
+  padding : 25px;
+  padding-top: 0px;
+}
